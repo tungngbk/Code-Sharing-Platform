@@ -1,7 +1,7 @@
-package com.zuan.codesharingplatform.controller;
+package com.zuankid.codesharingplatform.controller;
 
-import com.zuan.codesharingplatform.entities.Code;
-import com.zuan.codesharingplatform.service.CodeService;
+import com.zuankid.codesharingplatform.entities.Code;
+import com.zuankid.codesharingplatform.service.CodeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

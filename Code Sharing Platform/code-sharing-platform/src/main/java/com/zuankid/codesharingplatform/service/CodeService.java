@@ -1,7 +1,7 @@
-package com.zuan.codesharingplatform.service;
+package com.zuankid.codesharingplatform.service;
 
-import com.zuan.codesharingplatform.entities.Code;
-import com.zuan.codesharingplatform.repository.CodeRepository;
+import com.zuankid.codesharingplatform.entities.Code;
+import com.zuankid.codesharingplatform.repository.CodeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

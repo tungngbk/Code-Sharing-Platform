@@ -1,11 +1,10 @@
-package com.zuan.codesharingplatform.entities;
+package com.zuankid.codesharingplatform.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.*;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.UUID;
 
 @AllArgsConstructor

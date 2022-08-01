@@ -1,6 +1,6 @@
-package com.zuan.codesharingplatform.repository;
+package com.zuankid.codesharingplatform.repository;
 
-import com.zuan.codesharingplatform.entities.Code;
+import com.zuankid.codesharingplatform.entities.Code;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
